@@ -1,3 +1,3 @@
 # Miniframework-MVC
 
-## desenvolvido no curso Desenvolvimento Web Completo 2020 - 20 cursos + 20 projetos
+## Desenvolvido para auxiliar em futuras aplicações web, com a utilização da arquitetura MCV
